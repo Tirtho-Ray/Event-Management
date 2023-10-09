@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "title": "Canada",
+    "movie_name": "",
+    "movie_thumbnail": "https://i.ibb.co/BGtJd7h/images-2.jpg",
+    "movie_category": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage."
+},
+{
+    "id": 2,
+    "title": "USA",
+    "movie_name": "The Dark Knight",
+    "movie_thumbnail": "https://i.ibb.co/jzS0f5z/images-3.jpg",
+    "movie_category": "The Statue of Liberty Enlightening the World was a gift of friendship from the people of France to the United States and is recognized as a universal symbol of freedom and democracy. The Statue of Liberty was dedicated on October 28, 1886. It was designated as a National Monument in 1924"
+},
+{
+    "id": 3,
+    "title": "United Kingdom",
+    "movie_name": "Pulp Fiction",
+    "movie_thumbnail": " pharaohs expected to become gods in the afterlife. To prepare for the next world they erected temples to the gods and massive pyramid tombs for themselves—filled with all the things each ruler would need to guide and sustain himself in the next world.",
+    "movie_category": "Crime"
+},
+{
+    "id": 4,
+    "title": "Russia",
+    "movie_name": "The Shawshank Redemption",
+    "movie_thumbnail": "https://i.ibb.co/q5xQcmS/download-7.jpg",
+    "movie_category": "In Song dynasty China, an astronomical clock tower was designed by Su Song and erected at Kaifeng in 1088, featuring a liquid escapement mechanism. In England, a clock was put up in a clock tower, the medieval precursor to Big Ben, at Westminster, in 1288; and in 1292 a clock was put up in Canterbury Cathedral"
+},
+{
+    "id": 5,
+    "title": "India",
+    "movie_name": "Forrest Gump",
+    "movie_thumbnail": "https://i.ibb.co/zVx9hZX/images-1.jpg",
+    "movie_category": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage."
+},
+{
+    "id": 6,
+    "title": "Usa",
+    "movie_name": "Interstellar",
+    "movie_thumbnail": "https://i.ibb.co/jzS0f5z/images-3.jpg",
+    "movie_category": "The Statue of Liberty Enlightening the World was a gift of friendship from the people of France to the United States and is recognized as a universal symbol of freedom and democracy. The Statue of Liberty was dedicated on October 28, 1886. It was designated as a National Monument in 1924"
+},
+{
+    "id": 7,
+    "title": "Australia",
+    "movie_name": "Fight Club",
+    "movie_thumbnail": "https://i.ibb.co/QP4Sw4f/images.jpg",
+    "movie_category": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage."
+},
+{
+    "id": 8,
+    "title": "France",
+    "movie_name": "The Matrix",
+    "movie_thumbnail": "https://i.ibb.co/qBZcxZG/download-4.jpg",
+    "movie_category": "It was designated a monument historique in 1964, and was named part of a UNESCO World Heritage Site in 1991. The tower is 330 metres (1,083 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris."
+},
+{
+    "id": 9,
+    "title": "Bangladesh",
+    "movie_name": "Inglourious Basterds",
+    "movie_thumbnail": "https://i.ibb.co/W3f4V2q/tourist-places-in-bangladesh20.jpg",
+    "movie_category": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage."
+},
+{
+    "id": 10,
+    "title": "Paris",
+    "movie_name": "The Godfather",
+    "movie_thumbnail": "https://i.ibb.co/qBZcxZG/download-4.jpg",
+    "movie_category": "It was designated a monument historique in 1964, and was named part of a UNESCO World Heritage Site in 1991. The tower is 330 metres (1,083 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris."
+}
+]
